@@ -1,0 +1,32 @@
+.HomeContent-alert {
+    background-color: rgb(226, 248, 229);
+    font-size: 12px;
+    padding: 5px;
+}
+.home-table table thead tr {
+    background-color: #333!important;
+    color: #ffff!important;
+}
+th {
+    background-color: #333!important;
+    color: #fff;
+}
+tbody th {
+    background-color: #fff!important;
+    color: black;
+}
+tbody td {
+    text-align: center;
+}
+.commision-header {
+    color: #011e4a;
+    font-weight: 700;
+}
+.home-card {
+    background-color: #5ecac5!important;
+    color: #fff;
+}
+/* .card{
+    background-color: blue!important;
+} */
+

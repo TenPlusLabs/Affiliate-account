@@ -1,0 +1,30 @@
+.Footer {
+    margin-top: 5rem;
+    color: white;
+}
+.page-footer {
+    color: white;
+}
+.list-unstyled i {
+    border-color: white;
+    border-radius: 50%;
+    color: white;
+}
+.list-unstyled li a {
+    color: white;
+}
+.list-unstyled .la-facebook-f {
+    background-color: #00acee;
+}
+.list-unstyled .la-twitter {
+    background-color: #3b5998;
+}
+.list-unstyled .la-whatsapp {
+    background-color: #075e54;
+}
+.list-unstyled .la-linkedin-in {
+    background-color: #0077b5;
+}
+.list-unstyled .la-instagram {
+    background-color: #8a3ab9;
+}

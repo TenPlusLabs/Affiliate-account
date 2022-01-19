@@ -1,0 +1,31 @@
+.Signup {
+    /* margin: 4rem; */
+    padding: 3rem;
+    
+}
+.Signup-col {
+    background-color: #ffff;
+    border-radius: 3px;
+    box-shadow:0 16px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Signup-btn {
+    padding: 9px 1rem;
+    background-color: #29abe2;
+    color: #ffff;
+    border-color: #29abe2;
+}
+.Signup-pwd-val {
+    padding-top: 3rem;  
+}
+.Signup-pwd-val a {
+    text-decoration: none;
+    color: #29abe2;
+    font-size: 17px;
+}
+.Signup-form input {
+    margin-top: 1rem;
+    height: 2rem;
+}
+.Signup-button, .Signup .form-check {
+    padding-top: 1rem;
+}

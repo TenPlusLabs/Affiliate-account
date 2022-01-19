@@ -1,0 +1,64 @@
+.Login {
+    margin: 4rem;
+    padding: 3rem;
+    background-color: #ffff;
+    border: 1px solid white;
+    z-index: 2;
+    box-shadow: #ffff;
+    border-radius: 3px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.jjj {
+    background: linear-gradient(180deg,rgba(0,98,152,0) 0,#006298);
+    z-index: 1000;
+}
+.Login-btn {
+    padding: 9px 1rem;
+    background-color: #29abe2;
+    color: #ffff;
+    border-color: #29abe2;
+}
+.Login-pwd-val {
+    padding-top: 3rem;  
+}
+.Login-pwd-val a {
+    text-decoration: none;
+    color: #29abe2;
+    font-size: 17px;
+}
+.Login-opac {
+    opacity: 1;
+    background-color: black;
+}
+.Login-page {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+}
+.Login-text {
+    margin-top: 50%;
+    color: #ffff;
+}
+.Login-text h2 p{
+    padding-bottom: 50px!important;
+}
+.Login-text a {
+    text-decoration: none;
+    background-color: #29abe2;
+    color: white;
+    padding: 12px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+.Sign-btn {
+    margin-top: 10px;
+}
